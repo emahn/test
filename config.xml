@@ -10,3 +10,6 @@
   </dependencies>
   <description>&lt;b&gt;This is the description of this test pack.&lt;/b&gt;</description>
 </config>
+
+Versioning in nuget
+https://docs.microsoft.com/en-us/nuget/reference/nuspec#dependencies-element
