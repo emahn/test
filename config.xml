@@ -11,5 +11,11 @@
   <description>&lt;b&gt;This is the description of this test pack.&lt;/b&gt;</description>
 </config>
 
+  <dependencies>
+	<dependency id='another-test-pack' version='4.0.1' />
+	<dependency id='test-pack' version='[4.0.1]' />
+	<dependency id='old-pack />'
+  </dependencies>
+
 Versioning in nuget
 https://docs.microsoft.com/en-us/nuget/reference/nuspec#dependencies-element
